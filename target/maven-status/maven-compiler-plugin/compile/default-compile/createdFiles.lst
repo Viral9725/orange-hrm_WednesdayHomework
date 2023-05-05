@@ -1,0 +1,9 @@
+com\orangehrmlive\demo\pages\AddUserPage.class
+com\orangehrmlive\demo\pages\AdminPage.class
+com\orangehrmlive\demo\browserfactory\ManageBrowser.class
+com\orangehrmlive\demo\pages\HomePage.class
+com\orangehrmlive\demo\propertyreader\PropertyReader.class
+com\orangehrmlive\demo\pages\ViewSystemUsersPage.class
+com\orangehrmlive\demo\pages\DashboardPage.class
+com\orangehrmlive\demo\pages\LoginPage.class
+com\orangehrmlive\demo\utilities\Utilities.class
